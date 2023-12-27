@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amer-Zakaria
-- 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning Front-End Web Development
+- 👀 I’m interested in Back-End Development (ExpressJS | MongoDB)
+- 🌱 I’m currently learning Testing
 - 📫 How to reach me amerzkfe1234@gmail.com
 
 <!---
