@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Amer-Zakaria
 - 👀 I’m interested in Back-End Development (Typescript | Express | MongoDB | MySQL)
 - 📫 How to reach me amerzkfe1234@gmail.com
+- 🔗 My cv https://amer-profile.netlify.app/
