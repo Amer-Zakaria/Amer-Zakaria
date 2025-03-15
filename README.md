@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Amer-Zakaria
-- 👀 I’m interested in Back-End Development (Typescript | Express | MongoDB | MySQL)
+- 👀 I’m interested in Full-Stack Javascript Web Development (Typescript | React | Express | MongoDB | MySQL) && Data Science amatuer
 - 📫 How to reach me amerzkfe1234@gmail.com
